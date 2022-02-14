@@ -9,6 +9,10 @@
     "eslint-plugin-promise": "^5.2.0",
     "eslint-plugin-react": "^7.28.0"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .\__backend__\index.js"
+  },
   "dependencies": {
     "bootstrap": "^5.1.3",
     "react-bootstrap": "^2.1.2"
